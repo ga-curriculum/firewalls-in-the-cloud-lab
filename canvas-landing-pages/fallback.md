@@ -14,3 +14,7 @@ In this lab, you'll embark on an exploration of cloud-native firewalls and how t
 - [Firewalls in the Cloud vs. On-Prem](../firewalls-cloud-vs-onprem/README.md)
 - [Use Cases for Cloud-Native Firewalls](../cloud-native-firewalls/README.md)
 - [Documenting Discoveries and Insights](../documenting-discoveries/README.md)
+
+## Rubric
+
+- [Rubric](../rubrics/fallback.md)

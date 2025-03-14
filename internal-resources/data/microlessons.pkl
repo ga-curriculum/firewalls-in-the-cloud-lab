@@ -2,31 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-exploringFirewalls = new Template.Microlesson {
+exploringCloudFirewallSolutions = new Template.Microlesson {
   friendlyName = "Exploring Cloud Firewall Solutions"
-  dirName = "exploring-firewalls"
+  dirName = "exploring-cloud-firewall-solutions"
   type = "Content"
   videoUrl = ""
 }
 
-firewallsCloudVsOnprem = new Template.Microlesson {
+firewallsInTheCloudVsOnPrem = new Template.Microlesson {
   friendlyName = "Firewalls in the Cloud vs. On-Prem"
-  dirName = "firewalls-cloud-vs-onprem"
+  dirName = "firewalls-in-the-cloud-vs-on-prem"
   type = "Content"
   videoUrl = ""
 }
 
-cloudNativeFirewalls = new Template.Microlesson {
+useCasesForCloudNativeFirewalls = new Template.Microlesson {
   friendlyName = "Use Cases for Cloud-Native Firewalls"
-  dirName = "cloud-native-firewalls"
+  dirName = "use-cases-for-cloud-native-firewalls"
   type = "Content"
   videoUrl = ""
 }
 
-documentingDiscoveries = new Template.Microlesson {
+documentingDiscoveriesAndInsights = new Template.Microlesson {
   friendlyName = "Documenting Discoveries and Insights"
-  dirName = "documenting-discoveries"
+  dirName = "documenting-discoveries-and-insights"
   type = "Content"
   videoUrl = ""
 }
-

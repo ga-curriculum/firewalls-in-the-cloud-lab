@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Exploring Cloud Firewall Solutions",
-          "dirName": "exploring-firewalls",
+          "dirName": "exploring-cloud-firewall-solutions",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -31,7 +31,7 @@
         },
         {
           "friendlyName": "Firewalls in the Cloud vs. On-Prem",
-          "dirName": "firewalls-cloud-vs-onprem",
+          "dirName": "firewalls-in-the-cloud-vs-on-prem",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +41,7 @@
         },
         {
           "friendlyName": "Use Cases for Cloud-Native Firewalls",
-          "dirName": "cloud-native-firewalls",
+          "dirName": "use-cases-for-cloud-native-firewalls",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -51,7 +51,7 @@
         },
         {
           "friendlyName": "Documenting Discoveries and Insights",
-          "dirName": "documenting-discoveries",
+          "dirName": "documenting-discoveries-and-insights",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -83,14 +83,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Exploring Cloud Firewall Solutions",
-          "dirName": "exploring-firewalls",
+          "dirName": "exploring-cloud-firewall-solutions",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -100,7 +100,7 @@
         },
         {
           "friendlyName": "Firewalls in the Cloud vs. On-Prem",
-          "dirName": "firewalls-cloud-vs-onprem",
+          "dirName": "firewalls-in-the-cloud-vs-on-prem",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -110,7 +110,7 @@
         },
         {
           "friendlyName": "Use Cases for Cloud-Native Firewalls",
-          "dirName": "cloud-native-firewalls",
+          "dirName": "use-cases-for-cloud-native-firewalls",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -120,7 +120,7 @@
         },
         {
           "friendlyName": "Documenting Discoveries and Insights",
-          "dirName": "documenting-discoveries",
+          "dirName": "documenting-discoveries-and-insights",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
