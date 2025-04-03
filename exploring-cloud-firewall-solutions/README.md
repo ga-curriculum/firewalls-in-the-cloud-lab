@@ -3,6 +3,8 @@
   <span class="subhead">Exploring Cloud Firewall Solutions</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to identify and compare the firewall solutions offered by major cloud providers, understand their unique features, and evaluate their use cases.
+
 ## Research cloud providers' firewall solutions
 
 In this exercise, your task is to investigate the native firewall solutions offered by at least two major cloud platforms of your choice, such as AWS, Azure, GCP, Oracle Cloud, or IBM Cloud.

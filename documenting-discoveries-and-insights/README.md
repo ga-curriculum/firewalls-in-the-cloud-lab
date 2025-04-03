@@ -3,6 +3,8 @@
     <span class="subhead">Documenting Discoveries and Insights</span>
   </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to compile research findings into a well-organized document that summarizes their insights and discoveries about cloud-native firewalls.
+
 ## Demonstrate your findings
 
 Create a Google Doc to compile your findings, ensuring it is well-organized and easy to navigate. Ensure the document can be viewed publicly so your instructor can access it. Use a clear and professional format, with headings, subheadings, and bullet points, to make it easy to read.

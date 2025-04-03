@@ -3,6 +3,8 @@
   <span class="subhead">Use Cases for Cloud-Native Firewalls</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to identify specific use cases for cloud-native firewalls and understand how they can enhance security in cloud environments.
+
 ## Why use a cloud-native firewall?
 
 With a solid understanding of how cloud firewalls differ from on-premise solutions, your next task is to identify specific use cases where the unique characteristics of cloud-native firewalls provide clear advantages.

@@ -3,6 +3,8 @@
   <span class="subhead">Firewalls in the Cloud vs. On-Prem</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to compare and contrast cloud-native firewalls with traditional on-premise firewalls, understanding their unique features and implications for network security.
+
 ## Comparative analysis of cloud and on-premise firewalls
 
 Your next challenge is to build on your existing research by analyzing the fundamental differences between firewalls in the cloud and traditional on-premise firewall appliances.
